@@ -1,0 +1,6 @@
+{
+    "public": false,
+    "redirects": [
+      { "source": "/", "destination": "https://misskey.io/@harunon", "permanent": false }
+    ]
+}
